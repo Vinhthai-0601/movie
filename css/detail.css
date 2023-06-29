@@ -1,0 +1,27 @@
+.detail {
+    padding-top: 100px;
+}
+p{
+    color: white;
+}
+
+#more {display: none;}
+
+.content {
+    position: absolute;
+    top: 21rem;
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 48%;
+    padding: 13px;
+    margin-left: 3px;
+    height: 27vh;
+}
+
+.detail h2{
+    color: orange;
+}
+
+.btn1{
+    margin-right: 15px;
+}
